@@ -16,7 +16,7 @@ for r in range(row):
   t += len_key
 
 
-sort_order = sorted([(ch,i) for i,ch in enumerate(key)])  #to make alphabetically order of chars
+sort_order = sorted([(ch,i) for i,ch in enumerate(key)])  #Untuk Membuat urutan abjad
 
 
 cipher_text = ''
